@@ -37,23 +37,6 @@
 
 ---
 
-## ⚠️ Disclaimer
-**PhoneXtract is designed strictly for cybersecurity researchers, penetration testers, and OSINT analysts.**  
-Do not use this tool for malicious purposes, stalking, or harassment. 
-## 🎯 Features
-
-PhoneXtract leverages massive data sources and zero-day scraping techniques to extract critical intelligence on any phone number worldwide.
-
-* **Caller Identity (Truecaller Bypass):** Extracts the registered owner's real name and linked emails by hijacking the internal Truecaller API via browser session cookies (bypassing SMS OTP blocks).
-* **Premium Carrier Data (Numverify):** Identifies exact carrier, line type (Mobile/Landline), and location routing using Numverify's premium API.
-* **Risk & Threat Intelligence:** Cross-references the target number against 6 major spam and scam databases (ShouldIAnswer, NumLookup, Tellows, SpamCalls, etc.) to calculate a unified risk score.
-* **Virtual / VoIP Detection:** Instantly flags Burner numbers, VoIP setups, or disposable numbers favored by threat actors.
-* **Social Media Recon:** Checks WhatsApp and Telegram footprints. Generates automated deep-links for instant interaction (Signal, Viber).
-* **Automated OSINT Dorking:** Generates Google and DuckDuckGo dorks to find the number leaked across the surface web.
-* **Forensic Reporting:** Exports clean, formatted forensic reports in both `.TXT` and `.JSON` formats for integration into larger OSINT pipelines (like Maltego or Spiderfoot).
-
----
-
 ## ⚙️ Installation
 
 PhoneXtract is fully optimized for **Kali Linux**, **Parrot Security OS**, and **Ubuntu/Debian** systems. 
@@ -76,35 +59,11 @@ bash setup.sh
 
 ---
 
-##  Configuration (Unlocking Maximum Power)
-
-To get the exact Owner Name and highly accurate Carrier details, PhoneXtract needs to bypass standard rate limits using your personal API keys/cookies.
-
-1. Create a hidden file named `.env` in the root of the `phone-extractor` directory:
-```bash
-nano .env
-```
-
-2. Add the following lines to your `.env` file:
-```env
-NUMVERIFY_API_KEY=your_numverify_api_key_here
-TRUECALLER_COOKIE=your_massive_truecaller_cookie_here
-```
-
-### How to get the Truecaller Cookie (Bypass Method):
-Because Truecaller blocks automated CLI logins, PhoneXtract uses a session hijacking method to read the data.
-1. Go to [Truecaller Web](https://www.truecaller.com) and log in.
-2. Search for any random number.
-3. Open **Developer Tools** (F12) -> **Network Tab**.
-4. Click on the very first file request at the top (it will be the phone number).
-5. Scroll down to **Request Headers** and find the `cookie:` field.
-6. Right-click and copy the massive string of text, and paste it into your `.env` file.
 
 ---
 
-## 🚀 Usage
 
-Once installed and configured, launch the framework using the bash script:
+
 
 ```bash
 bash run.sh
