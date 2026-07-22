@@ -37,7 +37,7 @@
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 PhoneXtract is fully optimized for **Kali Linux**, **Parrot Security OS**, and **Ubuntu/Debian** systems. 
 
