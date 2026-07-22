@@ -1,0 +1,6 @@
+phonenumbers>=8.13.0
+requests>=2.28.0
+colorama>=0.4.6
+dnspython>=2.3.0
+python-dotenv>=1.0.0
+truecallerpy>=1.0.3

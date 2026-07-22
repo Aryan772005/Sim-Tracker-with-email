@@ -1,0 +1,7 @@
+.env
+report_*.json
+report_*.txt
+tc*.html
+find_name.py
+__pycache__/
+venv/
