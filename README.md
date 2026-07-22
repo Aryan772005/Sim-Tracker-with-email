@@ -39,10 +39,7 @@
 
 ## ⚠️ Disclaimer
 **PhoneXtract is designed strictly for cybersecurity researchers, penetration testers, and OSINT analysts.**  
-Do not use this tool for malicious purposes, stalking, or harassment. The author is not responsible for any misuse or damage caused by this program. **Use responsibly and ethically.**
-
----
-
+Do not use this tool for malicious purposes, stalking, or harassment. 
 ## 🎯 Features
 
 PhoneXtract leverages massive data sources and zero-day scraping techniques to extract critical intelligence on any phone number worldwide.
@@ -79,7 +76,7 @@ bash setup.sh
 
 ---
 
-## 🔑 Configuration (Unlocking Maximum Power)
+##  Configuration (Unlocking Maximum Power)
 
 To get the exact Owner Name and highly accurate Carrier details, PhoneXtract needs to bypass standard rate limits using your personal API keys/cookies.
 
