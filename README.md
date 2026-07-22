@@ -33,7 +33,7 @@ Open your terminal and execute the following commands:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/phone-extractor.git
+git clone https://github.com/Aryan772005/phone-extractor.git
 
 # 2. Navigate into the directory
 cd phone-extractor
