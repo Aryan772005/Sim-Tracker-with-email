@@ -132,5 +132,5 @@ Factors               Reported as SPAM on Tellows, VoIP Detected
 
 ---
 <p align="center">
-  <i>Developed for the InfoSec Community. Happy Hunting! 🕷️</i>
+  <i>Developed By Aryan With Ubuntu And kali linux (it will work in kali and ubuntu only)🕷️</i>
 </p>
