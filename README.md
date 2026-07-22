@@ -12,26 +12,14 @@
 <img width="1917" height="1041" alt="Screenshot 2026-07-23 011935" src="https://github.com/user-attachments/assets/fac117ec-f0f2-4f2d-9345-b7e73966cafe" />
 
 
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
-  </a>
-  <a href="https://kali.org">
-    <img src="https://img.shields.io/badge/OS-Kali%20Linux%20%7C%20Ubuntu-orange.svg" alt="Kali Linux">
-  </a>
+
   <a href="https://github.com/aryan">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   </a>
 </p>
 <img width="1412" height="660" alt="Screenshot 2026-07-23 011944" src="https://github.com/user-attachments/assets/9c4b4924-9bdf-464e-be89-97bfdafb81d0" />
 
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#configuration">Configuration (API Keys)</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#disclaimer">Disclaimer</a>
-</p>
+
 <img width="1007" height="650" alt="Screenshot 2026-07-23 011956" src="https://github.com/user-attachments/assets/58cfcaae-cbcb-4b44-b6eb-cc5f09669051" />
 
 
