@@ -16,6 +16,8 @@
   <a href="https://github.com/aryan">
     
 </p>
+<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/492d9084-f2f2-470b-a140-1ea30a8aeb45" />
+
 <img width="1412" height="660" alt="Screenshot 2026-07-23 011944" src="https://github.com/user-attachments/assets/9c4b4924-9bdf-464e-be89-97bfdafb81d0" />
 
 
