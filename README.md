@@ -3,7 +3,7 @@
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kali_Linux_2.0_wordmark.svg" alt="Kali" width="200">
   <br>
-  PhoneXtract v5.0
+  PhoneXtract
   <br>
 </h1>
 <p><h6>#1st one</h6></p>
